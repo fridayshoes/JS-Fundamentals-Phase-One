@@ -18,6 +18,8 @@ const addToBatch = (array, number) => {
 }
 
 
+// -- Run following tests --
+
 console.log(addToBatch([1], 3));
 // [ 1, 3 ]
 

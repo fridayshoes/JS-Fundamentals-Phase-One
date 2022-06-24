@@ -17,6 +17,7 @@ module.exports = fizzbuzzUntil;
 // To run, run node and type
 // const fizzbuzzUntil = require('./fizzbuzzUntil');
 // fizzbuzzUntil(20);
+
 // returns
 // 1
 // 2

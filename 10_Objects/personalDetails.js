@@ -8,6 +8,9 @@ const person = {
   hobbies: ['writing', 'tennis', 'cooking']
 };
 
+
+// -- Run following tests --
+
 // Prints the attribute associated to city
 console.log(person.address.city);
 // result

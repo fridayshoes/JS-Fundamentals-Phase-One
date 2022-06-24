@@ -39,6 +39,9 @@ class UserBase {
 
 }
 
+
+// -- Run following tests --
+
 const users = [
   new User('Uma'),
   new User('Josh'),

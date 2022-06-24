@@ -9,6 +9,8 @@ const cohortDetails = (details) => {
   return `${details.id} - ${details.name} - ${details.student_names.length}`;
 }
 
+// -- Run following tests --
+
 console.log(cohortDetails(cohort));
 
 // result

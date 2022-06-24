@@ -8,6 +8,8 @@ const generateMessages = () => {
   return names.map(insertName);
 }
 
+// -- Run following tests --
+
 console.log(generateMessages(names));
 // returns
 // [

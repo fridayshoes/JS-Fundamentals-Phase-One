@@ -8,7 +8,11 @@ const transform = (message, transformFunction) => {
   return transformFunction(message);
 }
 
-console.log(transform("hello", uppercaseMessage));
-
 
 module.exports = uppercaseMessage;
+
+
+// -- Run following tests --
+
+console.log(transform("hello", uppercaseMessage));
+

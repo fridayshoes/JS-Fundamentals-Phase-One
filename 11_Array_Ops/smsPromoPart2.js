@@ -15,6 +15,9 @@ const generateMessages = () => {
   return namesAndDiscounts.map(insertNameAndDiscount);
 }
 
+
+// -- Run following tests --
+
 console.log(generateMessages(namesAndDiscounts));
 // returns
 // [

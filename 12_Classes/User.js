@@ -14,6 +14,7 @@ class User {
   }
 }
 
+// -- Run following tests --
 
 const user = new User('Uma');
 
